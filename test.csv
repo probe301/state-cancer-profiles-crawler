@@ -1,0 +1,287 @@
+Incidence Rate Report for Texas by County
+
+"Brain & ONS, 2010-2014"
+
+"White Non-Hispanic, Female, Ages 65+"
+
+Sorted by Rate
+
+County, FIPS,Met Healthy People Objective of ***?,"Age-Adjusted Incidence Rate(†) - cases per 100,000","Lower 95% Confidence Interval","Upper 95% Confidence Interval",Average Annual Count,Recent Trend,"Recent 5-Year Trend (‡) in Incidence Rates","Lower 95% Confidence Interval","Upper 95% Confidence Interval"
+"Texas(6,10)",48999,***,18.3 ,17.1, 19.5,190,stable,-0.6 ,-3.1, 2.0
+"US (SEER+NPCR) &sect; (1,10)",00000,***,17.2 ,17, 17.5,3274,stable,-0.7 ,-3.2, 1.8
+"Travis County(6,10)",48453,***,25.3 ,17.9, 34.6,8,stable,-6.5 ,-22.3, 12.5
+"Fort Bend County(6,10)",48157,***,23.1 ,13, 37.7,3,*,*,*,*
+"Harris County(6,10)",48201,***,21.5 ,17.9, 25.7,25,stable,5.3 ,-10.4, 23.7
+"Montgomery County(6,10)",48339,***,19.6 ,12.7, 28.9,5,rising,12.0 ,3.3, 21.3
+"Williamson County(6,10)",48491,***,18.7 ,11.2, 29.4,4,stable,3.0 ,-41.2, 80.5
+"Dallas County(6,10)",48113,***,18.3 ,14.3, 23.1,15,stable,4.8 ,-8.5, 20.1
+"Collin County(6,10)",48085,***,17.3 ,11.3, 25.2,6,stable,3.5 ,-29.1, 51.0
+"Denton County(6,10)",48121,***,17 ,10.3, 26.3,4,stable,20.6 ,-10.6, 62.7
+"Tarrant County(6,10)",48439,***,16.6 ,12.7, 21.2,13,stable,3.8 ,-44.5, 94.3
+"Bexar County(6,10)",48029,***,13.5 ,9.2, 19,7,stable,-22.0 ,-47.1, 15.2
+"Anderson County(6,10)",48001,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Andrews County(6,10)",48003,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Angelina County(6,10)",48005,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Aransas County(6,10)",48007,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Archer County(6,10)",48009,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Armstrong County(6,10)",48011,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Atascosa County(6,10)",48013,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Austin County(6,10)",48015,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Bailey County(6,10)",48017,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Bandera County(6,10)",48019,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Bastrop County(6,10)",48021,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Baylor County(6,10)",48023,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Bee County(6,10)",48025,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Bell County(6,10)",48027,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Blanco County(6,10)",48031,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Borden County(6,10)",48033,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Bosque County(6,10)",48035,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Bowie County(6,10)",48037,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Brazoria County(6,10)",48039,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Brazos County(6,10)",48041,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Brewster County(6,10)",48043,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Briscoe County(6,10)",48045,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Brooks County(6,10)",48047,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Brown County(6,10)",48049,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Burleson County(6,10)",48051,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Burnet County(6,10)",48053,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Caldwell County(6,10)",48055,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Calhoun County(6,10)",48057,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Callahan County(6,10)",48059,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Cameron County(6,10)",48061,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Camp County(6,10)",48063,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Carson County(6,10)",48065,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Cass County(6,10)",48067,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Castro County(6,10)",48069,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Chambers County(6,10)",48071,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Cherokee County(6,10)",48073,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Childress County(6,10)",48075,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Clay County(6,10)",48077,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Cochran County(6,10)",48079,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Coke County(6,10)",48081,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Coleman County(6,10)",48083,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Collingsworth County(6,10)",48087,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Colorado County(6,10)",48089,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Comal County(6,10)",48091,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Comanche County(6,10)",48093,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Concho County(6,10)",48095,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Cooke County(6,10)",48097,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Coryell County(6,10)",48099,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Cottle County(6,10)",48101,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Crane County(6,10)",48103,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Crockett County(6,10)",48105,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Crosby County(6,10)",48107,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Culberson County(6,10)",48109,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Dallam County(6,10)",48111,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Dawson County(6,10)",48115,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"DeWitt County(6,10)",48123,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Deaf Smith County(6,10)",48117,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Delta County(6,10)",48119,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Dickens County(6,10)",48125,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Dimmit County(6,10)",48127,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Donley County(6,10)",48129,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Duval County(6,10)",48131,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Eastland County(6,10)",48133,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Ector County(6,10)",48135,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Edwards County(6,10)",48137,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"El Paso County(6,10)",48141,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Ellis County(6,10)",48139,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Erath County(6,10)",48143,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Falls County(6,10)",48145,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Fannin County(6,10)",48147,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Fayette County(6,10)",48149,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Fisher County(6,10)",48151,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Floyd County(6,10)",48153,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Foard County(6,10)",48155,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Franklin County(6,10)",48159,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Freestone County(6,10)",48161,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Frio County(6,10)",48163,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Gaines County(6,10)",48165,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Galveston County(6,10)",48167,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Garza County(6,10)",48169,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Gillespie County(6,10)",48171,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Glasscock County(6,10)",48173,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Goliad County(6,10)",48175,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Gonzales County(6,10)",48177,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Gray County(6,10)",48179,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Grayson County(6,10)",48181,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Gregg County(6,10)",48183,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Grimes County(6,10)",48185,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Guadalupe County(6,10)",48187,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hale County(6,10)",48189,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hall County(6,10)",48191,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hamilton County(6,10)",48193,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hansford County(6,10)",48195,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hardeman County(6,10)",48197,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hardin County(6,10)",48199,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Harrison County(6,10)",48203,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hartley County(6,10)",48205,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Haskell County(6,10)",48207,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hays County(6,10)",48209,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hemphill County(6,10)",48211,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Henderson County(6,10)",48213,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hidalgo County(6,10)",48215,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hill County(6,10)",48217,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hockley County(6,10)",48219,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hood County(6,10)",48221,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hopkins County(6,10)",48223,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Houston County(6,10)",48225,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Howard County(6,10)",48227,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hudspeth County(6,10)",48229,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hunt County(6,10)",48231,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Hutchinson County(6,10)",48233,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Irion County(6,10)",48235,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Jack County(6,10)",48237,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Jackson County(6,10)",48239,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Jasper County(6,10)",48241,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Jeff Davis County(6,10)",48243,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Jefferson County(6,10)",48245,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Jim Hogg County(6,10)",48247,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Jim Wells County(6,10)",48249,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Johnson County(6,10)",48251,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Jones County(6,10)",48253,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Karnes County(6,10)",48255,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Kaufman County(6,10)",48257,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Kendall County(6,10)",48259,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Kenedy County(6,10)",48261,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Kent County(6,10)",48263,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Kerr County(6,10)",48265,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Kimble County(6,10)",48267,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"King County(6,10)",48269,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Kinney County(6,10)",48271,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Kleberg County(6,10)",48273,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Knox County(6,10)",48275,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"La Salle County(6,10)",48283,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Lamar County(6,10)",48277,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Lamb County(6,10)",48279,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Lampasas County(6,10)",48281,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Lavaca County(6,10)",48285,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Lee County(6,10)",48287,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Leon County(6,10)",48289,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Liberty County(6,10)",48291,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Limestone County(6,10)",48293,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Lipscomb County(6,10)",48295,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Live Oak County(6,10)",48297,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Llano County(6,10)",48299,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Loving County(6,10)",48301,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Lubbock County(6,10)",48303,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Lynn County(6,10)",48305,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Madison County(6,10)",48313,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Marion County(6,10)",48315,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Martin County(6,10)",48317,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Mason County(6,10)",48319,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Matagorda County(6,10)",48321,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Maverick County(6,10)",48323,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"McCulloch County(6,10)",48307,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"McLennan County(6,10)",48309,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"McMullen County(6,10)",48311,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Medina County(6,10)",48325,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Menard County(6,10)",48327,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Midland County(6,10)",48329,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Milam County(6,10)",48331,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Mills County(6,10)",48333,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Mitchell County(6,10)",48335,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Montague County(6,10)",48337,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Moore County(6,10)",48341,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Morris County(6,10)",48343,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Motley County(6,10)",48345,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Nacogdoches County(6,10)",48347,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Navarro County(6,10)",48349,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Newton County(6,10)",48351,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Nolan County(6,10)",48353,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Nueces County(6,10)",48355,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Ochiltree County(6,10)",48357,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Oldham County(6,10)",48359,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Orange County(6,10)",48361,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Palo Pinto County(6,10)",48363,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Panola County(6,10)",48365,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Parker County(6,10)",48367,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Parmer County(6,10)",48369,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Pecos County(6,10)",48371,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Polk County(6,10)",48373,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Potter County(6,10)",48375,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Presidio County(6,10)",48377,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Rains County(6,10)",48379,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Randall County(6,10)",48381,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Reagan County(6,10)",48383,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Real County(6,10)",48385,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Red River County(6,10)",48387,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Reeves County(6,10)",48389,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Refugio County(6,10)",48391,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Roberts County(6,10)",48393,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Robertson County(6,10)",48395,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Rockwall County(6,10)",48397,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Runnels County(6,10)",48399,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Rusk County(6,10)",48401,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Sabine County(6,10)",48403,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"San Augustine County(6,10)",48405,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"San Jacinto County(6,10)",48407,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"San Patricio County(6,10)",48409,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"San Saba County(6,10)",48411,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Schleicher County(6,10)",48413,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Scurry County(6,10)",48415,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Shackelford County(6,10)",48417,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Shelby County(6,10)",48419,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Sherman County(6,10)",48421,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Smith County(6,10)",48423,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Somervell County(6,10)",48425,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Starr County(6,10)",48427,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Stephens County(6,10)",48429,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Sterling County(6,10)",48431,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Stonewall County(6,10)",48433,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Sutton County(6,10)",48435,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Swisher County(6,10)",48437,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Taylor County(6,10)",48441,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Terrell County(6,10)",48443,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Terry County(6,10)",48445,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Throckmorton County(6,10)",48447,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Titus County(6,10)",48449,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Tom Green County(6,10)",48451,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Trinity County(6,10)",48455,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Tyler County(6,10)",48457,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Upshur County(6,10)",48459,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Upton County(6,10)",48461,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Uvalde County(6,10)",48463,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Val Verde County(6,10)",48465,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Van Zandt County(6,10)",48467,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Victoria County(6,10)",48469,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Walker County(6,10)",48471,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Waller County(6,10)",48473,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Ward County(6,10)",48475,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Washington County(6,10)",48477,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Webb County(6,10)",48479,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Wharton County(6,10)",48481,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Wheeler County(6,10)",48483,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Wichita County(6,10)",48485,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Wilbarger County(6,10)",48487,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Willacy County(6,10)",48489,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Wilson County(6,10)",48493,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Winkler County(6,10)",48495,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Wise County(6,10)",48497,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Wood County(6,10)",48499,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Yoakum County(6,10)",48501,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Young County(6,10)",48503,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Zapata County(6,10)",48505,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+"Zavala County(6,10)",48507,<font color=grey>*</font>,* ,*, *,3 or fewer,*,*,*,*
+
+Created by statecancerprofiles.cancer.gov on 07/31/2017 11:17 am.
+Data for the United States does not include data from Nevada
+
+*** No Healthy People 2020 Objective for this cancer.
+
+State Cancer Registries may provide more current or more local data.
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates."
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information."
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. 
+
+"* Data has been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 records were reported in a specific area-sex-race category. If an average count of 3 is shown, the total number of cases for the time period is 16 or more which exceeds suppression threshold (but is rounded to 3)."
+
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2016 data submission and SEER November 2016 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].
+6 Source: State Cancer Registry and the CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2016 data submission.
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2015 ( http://seer.cancer.gov/popdata/ ) US Population Data ( http://seer.cancer.gov/popdata/ ) File is used with NPCR November 2016 data."
+
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. "
+
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate."
+
+Data for United States does not include Puerto Rico.
