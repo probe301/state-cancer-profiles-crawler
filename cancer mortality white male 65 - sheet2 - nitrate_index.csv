@@ -1,0 +1,585 @@
+state_county,pwsid_count,pwsid_with_nitrate_count,ave_nitrate_index
+"Douglas County, Colorado",117,14,0.1007
+"Fairfax County, Virginia",198,4,0.9240
+"Marin County, California",103,8,0.1217
+"Santa Clara County, California",318,53,3.2266
+"Loudoun County, Virginia",180,1,2.7000
+"Collier County, Florida",151,12,0.0694
+"Howard County, Maryland",179,1,4.7200
+"San Mateo County, California",113,11,2.2623
+"Bergen County, New Jersey",734,13,2.8138
+"Olmsted County, Minnesota",208,3,0.0605
+"Stearns County, Minnesota",742,19,0.6293
+"Westchester County, New York",348,77,0.2502
+"Hunterdon County, New Jersey",1016,20,1.9390
+"Orange County, California",167,33,1.7827
+"Rockland County, New York",103,6,1.7763
+"Nassau County, New York",48,28,2.8343
+"Morris County, New Jersey",426,29,1.3235
+"Somerset County, New Jersey",146,3,0.7447
+"Washington County, Minnesota",545,21,1.1036
+"Ozaukee County, Wisconsin",526,14,0.5567
+"DuPage County, Illinois",1314,8,0.1056
+"Dakota County, Minnesota",479,10,0.9424
+"Fairfield County, Connecticut",1837,62,0.5992
+"Washington County, Oregon",216,22,0.4817
+"Collin County, Texas",51,36,0.5164
+"Johnson County, Kansas",25,5,0.7960
+"Larimer County, Colorado",259,14,0.1399
+"Williamson County, Texas",130,41,0.9545
+"Ottawa County, Michigan",506,6,0.3007
+"Beaufort County, South Carolina",264,9,0.0257
+"Queens County, New York",0,0,-1.0000
+"Ventura County, California",176,58,1.1648
+"Honolulu County, Hawaii",67,27,1.1141
+"Santa Barbara County, California",236,34,2.2119
+"Hamilton County, Indiana",166,11,0.2081
+"Williamson County, Tennessee",42,0,-1.0000
+"Monterey County, California",652,111,3.0054
+"Middlesex County, Massachusetts",440,75,0.4529
+"Norfolk County, Massachusetts",114,37,0.7503
+"Waukesha County, Wisconsin",1409,31,0.5524
+"Geauga County, Ohio",506,16,1.0697
+"Centre County, Pennsylvania",238,22,2.8566
+"Washington County, Utah",91,16,0.5080
+"Fort Bend County, Texas",473,88,0.4004
+"Tolland County, Connecticut",1086,49,0.7271
+"New York County, New York",2,0,-1.0000
+"Dane County, Wisconsin",632,27,1.6304
+"Santa Cruz County, California",192,25,1.3098
+"King County, Washington",512,85,0.3117
+"Sarasota County, Florida",455,9,0.1336
+"San Francisco County, California",36,0,-1.0000
+"Nevada County, California",219,5,0.0594
+"Placer County, California",235,10,0.5487
+"Delaware County, Ohio",71,5,0.6451
+"Chittenden County, Vermont",360,14,0.2701
+"Saratoga County, New York",433,53,0.9613
+"Sumter County, Florida",234,16,1.5038
+"Washington County, Wisconsin",528,6,1.0519
+"Contra Costa County, California",176,12,1.3864
+"Wright County, Minnesota",414,8,0.4666
+"Alameda County, California",47,9,0.2719
+"Martin County, Florida",409,4,0.1256
+"Davis County, Utah",45,15,1.4997
+"Chester County, Pennsylvania",775,75,3.4103
+"Newport County, Rhode Island",101,8,0.4362
+"San Diego County, California",425,34,0.6340
+"Washington County, Rhode Island",416,21,1.3726
+"Anoka County, Minnesota",582,8,0.1733
+"Palm Beach County, Florida",1065,19,0.1498
+"Lake County, Illinois",2427,26,0.3580
+"El Dorado County, California",303,3,0.2282
+"San Luis Obispo County, California",227,44,1.8077
+"Whatcom County, Washington",341,61,0.6068
+"Cass County, North Dakota",90,1,1.2100
+"Utah County, Utah",166,29,1.0296
+"Middlesex County, New Jersey",62,1,2.2900
+"Middlesex County, Connecticut",1164,36,0.6682
+"Hidalgo County, Texas",74,25,0.2842
+"Los Angeles County, California",622,155,2.5617
+"Washtenaw County, Michigan",532,1,0.5870
+"Ada County, Idaho",300,48,0.9631
+"Grafton County, New Hampshire",443,31,0.3938
+"Hennepin County, Minnesota",1233,13,0.3284
+"Marathon County, Wisconsin",498,19,1.9549
+"Litchfield County, Connecticut",1503,68,0.5027
+"Montgomery County, Maryland",126,2,1.2096
+"Prince Georges County, Maryland",0,0,-1.0000
+"Montgomery County, Pennsylvania",668,39,2.9054
+"Wake County, North Carolina",1317,133,1.5926
+"Outagamie County, Wisconsin",327,6,0.1645
+"Eau Claire County, Wisconsin",196,16,1.8334
+"Barnstable County, Massachusetts",370,27,0.9926
+"Hampshire County, Massachusetts",181,25,1.1181
+"Kane County, Illinois",1300,13,0.8343
+"Brown County, Wisconsin",283,5,0.1285
+"Lancaster County, Pennsylvania",982,91,4.5471
+"Lancaster County, Nebraska",229,0,-1.0000
+"Essex County, Massachusetts",222,31,0.4186
+"Rockingham County, New Hampshire",907,46,1.4654
+"St. Johns County, Florida",305,10,0.0455
+"Wood County, Wisconsin",346,9,1.4755
+"Sarpy County, Nebraska",80,0,-1.0000
+"Prince William County, Virginia",182,1,0.9240
+"Frederick County, Maryland",533,21,1.3099
+"Denton County, Texas",263,89,0.6316
+"Yuma County, Arizona",137,19,0.5354
+"Sonoma County, California",717,88,1.1101
+"Linn County, Iowa",230,14,3.0694
+"Travis County, Texas",307,78,0.3983
+"Crow Wing County, Minnesota",1091,7,0.2370
+"Suffolk County, New York",584,0,-1.0000
+"Deschutes County, Oregon",261,40,0.2127
+"Lee County, Florida",221,16,0.1797
+"Champaign County, Illinois",341,13,1.5394
+"Hillsborough County, New Hampshire",530,25,0.4716
+"New London County, Connecticut",1334,80,0.5713
+"Gwinnett County, Georgia",20,0,-1.0000
+"Charlotte County, Florida",130,6,0.1880
+"Union County, New Jersey",9,2,2.2900
+"Cumberland County, Maine",708,9,0.2421
+"Clackamas County, Oregon",409,44,0.6757
+"Napa County, California",340,13,0.0626
+"Dutchess County, New York",846,95,0.9843
+"La Crosse County, Wisconsin",271,20,3.2285
+"St. Charles County, Missouri",99,3,1.4700
+"Thurston County, Washington",704,151,1.4276
+"Medina County, Ohio",334,6,0.4216
+"Berkshire County, Massachusetts",432,34,0.2039
+"Miami-Dade County, Florida",172,19,0.2250
+"Manitowoc County, Wisconsin",309,11,1.0228
+"Seminole County, Florida",230,19,0.1075
+"Indian River County, Florida",398,1,0.3030
+"Hartford County, Connecticut",1352,38,1.0330
+"Cumberland County, Pennsylvania",282,20,3.2858
+"Fond du Lac County, Wisconsin",396,11,0.2601
+"Yolo County, California",208,9,3.5126
+"Monroe County, Indiana",20,1,0.0550
+"York County, Maine",447,12,0.2373
+"Livingston County, Michigan",827,1,0.5000
+"Northampton County, Pennsylvania",486,32,1.0690
+"Sheboygan County, Wisconsin",389,12,0.3563
+"Bucks County, Pennsylvania",834,56,2.0041
+"Pennington County, South Dakota",257,1,0.3900
+"Winnebago County, Wisconsin",308,4,0.5810
+"Dubuque County, Iowa",212,7,3.7144
+"Snohomish County, Washington",370,76,0.3426
+"Merrimack County, New Hampshire",375,19,0.2046
+"Monroe County, New York",140,4,0.1392
+"Manatee County, Florida",151,5,0.0320
+"Hendricks County, Indiana",190,6,1.0394
+"Warren County, New Jersey",308,21,2.2109
+"Oakland County, Michigan",2122,9,0.1288
+"Ramsey County, Minnesota",465,4,0.4893
+"McHenry County, Illinois",1254,10,0.4798
+"Monmouth County, New Jersey",401,8,0.3432
+"McLean County, Illinois",231,21,1.7120
+"Chesterfield County, Virginia",58,0,-1.0000
+"Jefferson County, Colorado",274,22,0.1720
+"Denver County, Colorado",35,1,0.0833
+"Arapahoe County, Colorado",116,10,0.2488
+"Adams County, Colorado",165,18,1.2556
+"Ulster County, New York",652,68,0.7883
+"Boulder County, Colorado",216,14,0.1331
+"Weld County, Colorado",136,6,0.9850
+"Maricopa County, Arizona",539,101,3.0230
+"El Paso County, Colorado",251,41,0.6954
+"New Haven County, Connecticut",1243,27,0.9755
+"Kent County, Michigan",912,13,0.5302
+"El Paso County, Texas",135,16,1.0210
+"Yamhill County, Oregon",127,25,0.2119
+"Will County, Illinois",2157,27,0.3284
+"Riverside County, California",460,60,2.3467
+"Franklin County, Pennsylvania",325,24,1.2022
+"Clark County, Washington",331,18,2.4897
+"Cobb County, Georgia",24,0,-1.0000
+"Albany County, New York",102,17,0.9762
+"Benton County, Washington",226,27,1.7172
+"Roanoke County, Virginia",154,0,-1.0000
+"Burlington County, New Jersey",996,10,1.2323
+"Ontario County, New York",115,11,0.5444
+"Adams County, Pennsylvania",375,36,2.6559
+"Worcester County, Massachusetts",612,85,0.5013
+"Onondaga County, New York",152,16,0.5875
+"Kings County, New York",0,0,-1.0000
+"Virginia Beach City, Virginia",0,0,-1.0000
+"Hudson County, New Jersey",188,1,1.9100
+"Kitsap County, Washington",445,100,0.3127
+"Lebanon County, Pennsylvania",258,24,1.6837
+"Walworth County, Wisconsin",504,16,0.6330
+"Strafford County, New Hampshire",219,13,0.6232
+"Missoula County, Montana",454,3,0.2662
+"Pinal County, Arizona",267,57,4.4408
+"Flagler County, Florida",70,4,0.6322
+"Skagit County, Washington",185,23,0.2125
+"Lehigh County, Pennsylvania",597,32,3.9341
+"Richmond County, New York",0,0,-1.0000
+"Schenectady County, New York",61,5,0.5822
+"Eaton County, Michigan",281,3,1.8071
+"Boone County, Missouri",39,0,-1.0000
+"Passaic County, New Jersey",185,15,1.8523
+"Benton County, Arkansas",140,2,2.4655
+"Greene County, Ohio",333,16,1.1787
+"Orange County, New York",641,79,0.7310
+"Salt Lake County, Utah",169,23,1.4842
+"Lane County, Oregon",522,36,0.6027
+"Kootenai County, Idaho",342,71,0.9851
+"Warren County, Ohio",123,13,1.1371
+"Comal County, Texas",190,34,1.1509
+"Plymouth County, Massachusetts",288,40,0.8249
+"York County, Pennsylvania",740,46,3.5776
+"Berks County, Pennsylvania",981,60,3.4219
+"Moore County, North Carolina",292,12,1.3083
+"Mercer County, New Jersey",747,9,1.3965
+"Clallam County, Washington",245,43,0.6366
+"Sussex County, New Jersey",595,33,2.1941
+"Minnehaha County, South Dakota",41,0,-1.0000
+"Black Hawk County, Iowa",90,4,6.5725
+"Wood County, Ohio",269,13,2.1804
+"Frederick County, Virginia",129,0,-1.0000
+"Harford County, Maryland",399,15,3.2187
+"Broome County, New York",217,38,0.7757
+"Bristol County, Massachusetts",267,22,0.7900
+"Henrico County, Virginia",120,0,-1.0000
+"St. Louis County, Missouri",53,1,0.9680
+"Ocean County, New Jersey",333,12,0.5514
+"Broward County, Florida",309,29,0.1051
+"Dodge County, Wisconsin",398,13,0.1221
+"Mecklenburg County, North Carolina",857,14,2.4029
+"Suffolk County, Massachusetts",41,5,0.1650
+"New Hanover County, North Carolina",422,2,0.0926
+"Shelby County, Alabama",34,14,0.7462
+"Carroll County, Maryland",491,21,4.0412
+"Solano County, California",181,13,1.4309
+"Cherokee County, Georgia",43,0,-1.0000
+"Providence County, Rhode Island",417,13,0.5040
+"Kent County, Rhode Island",94,1,0.5900
+"Pima County, Arizona",505,143,1.8413
+"Orange County, Florida",640,27,0.1006
+"Anne Arundel County, Maryland",962,6,0.7904
+"Butler County, Pennsylvania",581,17,0.7603
+"Clinton County, New York",271,0,-1.0000
+"Henderson County, North Carolina",259,15,2.5799
+"Lake County, Ohio",151,7,0.4750
+"Westmoreland County, Pennsylvania",432,2,0.6699
+"Randall County, Texas",60,13,1.2569
+"Oneida County, New York",218,37,0.2207
+"Tippecanoe County, Indiana",201,8,0.6727
+"Allegan County, Michigan",599,13,0.7301
+"Wayne County, New York",121,11,0.6505
+"Jackson County, Oregon",340,30,1.0499
+"Clay County, Missouri",20,4,2.0700
+"Scott County, Iowa",174,8,1.2784
+"Leon County, Florida",240,23,0.3402
+"Baltimore County, Maryland",492,8,2.1704
+"Yavapai County, Arizona",397,93,1.1654
+"St. Louis County, Minnesota",857,18,0.3045
+"Polk County, Iowa",94,15,6.3970
+"Racine County, Wisconsin",476,7,0.5196
+"Canyon County, Idaho",282,68,0.9739
+"Weber County, Utah",118,21,0.5598
+"Indiana County, Pennsylvania",298,10,1.2864
+"Ingham County, Michigan",230,1,0.5000
+"Monroe County, Pennsylvania",1230,45,0.5705
+"Mesa County, Colorado",74,9,0.1455
+"Lake County, Florida",660,79,1.2571
+"Elkhart County, Indiana",592,9,0.9243
+"Marion County, Oregon",322,27,0.4668
+"Windham County, Connecticut",1159,38,0.7503
+"Sacramento County, California",462,37,0.7549
+"Rock Island County, Illinois",434,36,1.4440
+"Jefferson County, New York",340,34,1.7792
+"Osceola County, Florida",444,10,0.4379
+"Spokane County, Washington",383,72,1.6317
+"Chautauqua County, New York",317,39,0.4221
+"Yellowstone County, Montana",267,1,16.4000
+"Highlands County, Florida",274,14,0.0592
+"St. Lucie County, Florida",324,6,0.0643
+"Bernalillo County, New Mexico",285,0,-1.0000
+"Merced County, California",240,19,3.9570
+"Lenawee County, Michigan",385,5,0.6488
+"Kalamazoo County, Michigan",449,3,0.1869
+"Lycoming County, Pennsylvania",452,27,0.8535
+"Wayne County, Ohio",397,6,0.4188
+"Portage County, Ohio",632,8,0.1709
+"Porter County, Indiana",256,3,0.2420
+"Macomb County, Michigan",315,1,0.3000
+"Fairfield County, Ohio",256,11,0.2224
+"Tuscarawas County, Ohio",238,11,0.9170
+"Hampden County, Massachusetts",203,24,0.4623
+"Rock County, Wisconsin",325,11,5.4317
+"Allen County, Indiana",220,9,1.1247
+"Miami County, Ohio",262,7,0.8399
+"Multnomah County, Oregon",143,15,0.1415
+"Tazewell County, Illinois",332,21,2.0542
+"Chemung County, New York",134,14,1.1521
+"Douglas County, Nebraska",131,0,-1.0000
+"Fresno County, California",669,63,4.3027
+"Somerset County, Pennsylvania",280,15,0.3670
+"Anchorage Borough, Alaska",0,0,-1.0000
+"Erie County, New York",298,30,0.2272
+"Union County, North Carolina",221,0,-1.0000
+"Rensselaer County, New York",299,26,0.4920
+"Hall County, Georgia",65,0,-1.0000
+"Aroostook County, Maine",467,40,1.8993
+"Beaver County, Pennsylvania",268,14,1.2572
+"Steuben County, New York",290,41,1.5192
+"Brevard County, Florida",236,18,0.2178
+"DeKalb County, Georgia",22,0,-1.0000
+"Bexar County, Texas",279,43,1.6863
+"Erie County, Pennsylvania",402,25,0.4633
+"Cochise County, Arizona",185,53,1.0623
+"Johnson County, Indiana",88,8,0.2802
+"Buncombe County, North Carolina",239,3,3.6970
+"New Castle County, Delaware",219,6,3.9629
+"Guilford County, North Carolina",520,34,1.4085
+"Lapeer County, Michigan",492,2,0.6358
+"Pinellas County, Florida",78,8,0.1656
+"Pierce County, Washington",801,138,1.5668
+"Sussex County, Delaware",707,81,3.8198
+"Penobscot County, Maine",557,40,0.3481
+"Harris County, Texas",2274,548,0.2441
+"Cook County, Illinois",3017,46,0.2886
+"Dauphin County, Pennsylvania",415,24,2.4607
+"Montgomery County, Texas",688,207,0.0412
+"Allegheny County, Pennsylvania",252,19,0.6764
+"Stark County, Ohio",571,4,0.3672
+"Lorain County, Ohio",97,6,0.3494
+"Delaware County, Pennsylvania",179,4,4.9546
+"Bay County, Michigan",110,2,0.8128
+"Niagara County, New York",25,3,0.1918
+"Fayette County, Kentucky",4,2,0.3500
+"Monroe County, Michigan",387,5,0.7298
+"Kenosha County, Wisconsin",508,8,0.4738
+"Lawrence County, Pennsylvania",238,9,0.7673
+"Gloucester County, New Jersey",1396,15,1.0292
+"Durham County, North Carolina",238,4,0.5269
+"Cleveland County, Oklahoma",190,5,0.3573
+"Mercer County, Pennsylvania",390,16,0.6766
+"Okaloosa County, Florida",145,2,0.1680
+"Sangamon County, Illinois",280,27,0.7715
+"Kennebec County, Maine",473,12,0.4879
+"Clearfield County, Pennsylvania",148,1,1.7300
+"Alachua County, Florida",169,9,0.7945
+"Woodbury County, Iowa",81,9,2.2962
+"St. Lawrence County, New York",396,24,0.5137
+"Tarrant County, Texas",245,80,0.4030
+"Chesapeake City, Virginia",0,0,-1.0000
+"Washington County, Pennsylvania",270,0,-1.0000
+"Yakima County, Washington",529,61,0.9438
+"San Bernardino County, California",683,110,3.7497
+"Haywood County, North Carolina",265,1,1.6000
+"Summit County, Ohio",898,9,0.2039
+"Hillsborough County, Florida",1795,87,0.4221
+"Cass County, Missouri",38,3,2.0700
+"St. Joseph County, Indiana",385,10,1.3946
+"Brazoria County, Texas",503,99,0.2882
+"Linn County, Oregon",370,20,1.9304
+"Oswego County, New York",371,32,0.6868
+"Washington County, Maryland",204,13,0.8147
+"Winnebago County, Illinois",1106,22,1.2081
+"San Joaquin County, California",562,77,2.2121
+"Washington County, Arkansas",118,0,-1.0000
+"Cape May County, New Jersey",225,5,0.0361
+"Saline County, Arkansas",83,0,-1.0000
+"Dallas County, Texas",108,33,0.8469
+"Nueces County, Texas",44,13,0.2689
+"Peoria County, Illinois",389,18,2.5546
+"Brunswick County, North Carolina",294,10,0.7300
+"Northumberland County, Pennsylvania",173,8,0.5480
+"Androscoggin County, Maine",244,7,0.6071
+"Bronx County, New York",0,0,-1.0000
+"La Salle County, Illinois",0,0,-1.0000
+"Cambria County, Pennsylvania",204,5,1.3396
+"Newport News City, Virginia",0,0,-1.0000
+"Pottawattamie County, Iowa",101,10,2.0735
+"Shawnee County, Kansas",19,8,1.1974
+"Jackson County, Michigan",708,1,0.4500
+"Forsyth County, North Carolina",195,11,1.2404
+"Greene County, Missouri",162,1,0.0200
+"Lewis County, Washington",349,30,1.6702
+"Butte County, California",155,23,2.1102
+"Macon County, Illinois",249,10,3.2109
+"Allen County, Ohio",272,4,1.0087
+"Stanislaus County, California",443,58,4.6552
+"Santa Rosa County, Florida",61,12,0.6826
+"Clay County, Florida",260,6,0.0552
+"Camden County, New Jersey",320,14,1.1774
+"Berrien County, Michigan",594,12,0.7834
+"Sumner County, Tennessee",73,5,0.3215
+"Crawford County, Pennsylvania",490,17,0.7642
+"Licking County, Ohio",404,8,1.3548
+"Rankin County, Mississippi",96,2,0.1364
+"Butler County, Ohio",143,10,1.7733
+"Richland County, Ohio",344,34,0.4964
+"Erie County, Ohio",79,9,0.5454
+"Tulare County, California",712,79,3.0781
+"Clark County, Nevada",311,36,1.2434
+"Clermont County, Ohio",47,10,1.0847
+"Polk County, Florida",1440,91,0.6696
+"Lackawanna County, Pennsylvania",551,23,1.1449
+"Baldwin County, Alabama",93,16,1.3719
+"Sedgwick County, Kansas",83,19,0.8382
+"Madison County, Alabama",30,6,1.8491
+"Columbiana County, Ohio",402,9,0.8315
+"Cumberland County, Tennessee",66,2,0.1400
+"Greenville County, South Carolina",152,8,0.0781
+"Charleston County, South Carolina",246,5,0.1393
+"Cabarrus County, North Carolina",279,12,1.4120
+"Washoe County, Nevada",216,19,1.0733
+"Blair County, Pennsylvania",241,12,3.2630
+"Smith County, Texas",82,38,0.0483
+"Carteret County, North Carolina",268,0,-1.0000
+"Wilson County, Tennessee",39,5,0.3672
+"Bell County, Texas",65,29,0.4428
+"Cuyahoga County, Ohio",129,6,0.3956
+"St. Clair County, Michigan",262,1,0.5000
+"Alamance County, North Carolina",321,12,1.6488
+"Cowlitz County, Washington",147,14,0.4595
+"Rutherford County, Tennessee",55,4,0.6208
+"St. Tammany Parish, Louisiana",664,0,-1.0000
+"Trumbull County, Ohio",308,10,0.2105
+"Muskegon County, Michigan",443,10,0.3224
+"Volusia County, Florida",492,34,0.2192
+"Saginaw County, Michigan",163,0,-1.0000
+"Pasco County, Florida",795,60,0.8242
+"Parker County, Texas",157,59,0.1961
+"Essex County, New Jersey",563,11,1.8733
+"Douglas County, Oregon",201,7,0.1748
+"Luzerne County, Pennsylvania",717,58,0.3482
+"Marion County, Florida",1361,126,1.6026
+"Pueblo County, Colorado",132,13,0.3074
+"Carbon County, Pennsylvania",329,14,1.5576
+"Lexington County, South Carolina",375,77,0.4318
+"Allegany County, Maryland",209,7,0.7222
+"Campbell County, Kentucky",24,0,-1.0000
+"Craven County, North Carolina",282,0,-1.0000
+"Madison County, Illinois",158,22,2.3579
+"Atlantic County, New Jersey",1157,16,0.6668
+"Hamilton County, Ohio",127,5,1.7443
+"Josephine County, Oregon",324,29,0.4493
+"Hamilton County, Tennessee",83,6,0.4488
+"Hernando County, Florida",347,12,1.1949
+"Daviess County, Kentucky",14,0,-1.0000
+"Vanderburgh County, Indiana",26,2,1.0300
+"Milwaukee County, Wisconsin",303,10,0.2997
+"Kent County, Delaware",332,14,1.2795
+"Blount County, Tennessee",88,6,0.2175
+"Berkeley County, South Carolina",298,8,0.2453
+"York County, South Carolina",430,59,0.3430
+"Franklin County, Ohio",374,17,3.8105
+"Kern County, California",668,149,2.0500
+"Iredell County, North Carolina",327,26,1.2456
+"Pickens County, South Carolina",87,8,0.1227
+"Schuylkill County, Pennsylvania",453,16,1.6821
+"Richland County, South Carolina",249,29,0.2450
+"Humboldt County, California",248,12,0.1078
+"Citrus County, Florida",426,39,0.6559
+"McLennan County, Texas",102,52,0.1618
+"Randolph County, North Carolina",371,14,0.5492
+"Johnston County, North Carolina",644,20,0.6287
+"Franklin County, Missouri",154,0,-1.0000
+"Mahoning County, Ohio",285,2,0.5948
+"Kankakee County, Illinois",613,5,1.5792
+"Lafayette Parish, Louisiana",265,0,-1.0000
+"Muskingum County, Ohio",193,11,0.5648
+"Knox County, Tennessee",33,6,0.5438
+"Lucas County, Ohio",183,6,1.1167
+"Belmont County, Ohio",81,14,1.5644
+"LaPorte County, Indiana",276,8,0.3625
+"Galveston County, Texas",145,21,0.8596
+"Aiken County, South Carolina",142,23,1.0030
+"Delaware County, Indiana",195,5,1.8783
+"Jefferson Parish, Louisiana",8,0,-1.0000
+"Fulton County, Georgia",39,0,-1.0000
+"Cecil County, Maryland",492,30,3.6541
+"Jefferson County, Kentucky",27,2,0.6250
+"Montgomery County, Ohio",242,15,0.7668
+"Horry County, South Carolina",404,9,0.3081
+"Baxter County, Arkansas",197,5,1.3341
+"Jackson County, Missouri",30,2,2.0700
+"Kenton County, Kentucky",20,2,0.4480
+"Williamson County, Illinois",45,2,0.0909
+"DeSoto County, Mississippi",49,10,0.3482
+"Anderson County, Tennessee",41,5,0.4542
+"Lubbock County, Texas",248,33,1.1365
+"Wood County, West Virginia",47,7,1.4736
+"Johnson County, Texas",101,58,0.3003
+"Coos County, Oregon",98,14,0.6399
+"Ashtabula County, Ohio",186,5,0.0768
+"Bradley County, Tennessee",45,3,0.5849
+"Davidson County, North Carolina",58,0,-1.0000
+"Sevier County, Tennessee",192,6,0.4002
+"Surry County, North Carolina",379,15,1.8859
+"Grays Harbor County, Washington",219,11,0.8918
+"Taylor County, Texas",30,15,0.3530
+"Fayette County, Pennsylvania",199,5,0.7104
+"Houston County, Alabama",47,3,0.0694
+"St. Clair County, Illinois",148,11,3.2576
+"Washington County, Tennessee",28,2,0.2405
+"Bay County, Florida",225,7,0.0430
+"Catawba County, North Carolina",608,46,2.3133
+"Tulsa County, Oklahoma",58,0,-1.0000
+"Chatham County, Georgia",215,0,-1.0000
+"Montgomery County, Tennessee",26,4,0.5278
+"Berkeley County, West Virginia",87,10,2.6619
+"Shasta County, California",388,26,0.8375
+"Madison County, Indiana",158,8,1.1235
+"Sullivan County, Tennessee",96,6,0.5836
+"Cumberland County, New Jersey",397,12,4.3504
+"Lauderdale County, Alabama",26,4,1.0844
+"Davidson County, Tennessee",127,3,0.4789
+"Burke County, North Carolina",260,0,-1.0000
+"Vermilion County, Illinois",239,8,5.6629
+"Lake County, Indiana",241,15,0.3878
+"Sebastian County, Arkansas",46,0,-1.0000
+"Vigo County, Indiana",157,13,2.9719
+"Calhoun County, Michigan",376,4,0.5822
+"Jefferson County, Missouri",167,3,0.9680
+"Genesee County, Michigan",1357,7,0.4639
+"Clark County, Ohio",283,19,2.0352
+"Clark County, Indiana",28,9,0.5071
+"Jasper County, Missouri",94,2,0.3420
+"Grant County, Indiana",127,7,0.7511
+"Grayson County, Texas",125,42,0.1228
+"East Baton Rouge Parish, Louisiana",149,0,-1.0000
+"Duval County, Florida",791,13,0.0659
+"Pulaski County, Arkansas",158,4,0.6742
+"Marion County, Indiana",416,3,0.8460
+"District of Columbia",??,??,??
+"Wayne County, North Carolina",219,0,-1.0000
+"Escambia County, Florida",44,14,1.5771
+"White County, Arkansas",37,2,1.2710
+"Rowan County, North Carolina",557,26,1.2523
+"Craighead County, Arkansas",36,2,0.4793
+"Rockingham County, North Carolina",451,13,0.3310
+"Jefferson County, Texas",58,14,0.0413
+"Caldwell County, North Carolina",250,0,-1.0000
+"Jefferson County, Ohio",115,13,0.7952
+"Anderson County, South Carolina",120,17,0.1276
+"Harrison County, West Virginia",61,16,0.4903
+"Montgomery County, Alabama",34,6,0.0910
+"Morgan County, Alabama",17,4,0.4570
+"Cumberland County, North Carolina",872,14,3.5679
+"Tuscaloosa County, Alabama",34,5,0.2573
+"Oklahoma County, Oklahoma",563,31,0.2025
+"Livingston Parish, Louisiana",154,0,-1.0000
+"Garland County, Arkansas",274,0,-1.0000
+"Floyd County, Georgia",16,0,-1.0000
+"Henderson County, Texas",132,57,0.1533
+"Spartanburg County, South Carolina",140,4,0.4411
+"Jackson County, Mississippi",163,0,-1.0000
+"Pulaski County, Kentucky",29,7,0.3124
+"Wichita County, Texas",11,9,0.8069
+"Kanawha County, West Virginia",289,2,0.3000
+"Ouachita Parish, Louisiana",163,0,-1.0000
+"Shelby County, Tennessee",66,3,0.0612
+"Cullman County, Alabama",15,0,-1.0000
+"Gregg County, Texas",24,15,0.1639
+"Cabell County, West Virginia",52,2,0.7564
+"Gaston County, North Carolina",852,93,2.2432
+"Norfolk City, Virginia",0,0,-1.0000
+"Mohave County, Arizona",201,49,2.5143
+"Harrison County, Mississippi",259,0,-1.0000
+"Rapides Parish, Louisiana",77,0,-1.0000
+"Orleans Parish, Louisiana",29,0,-1.0000
+"Wyandotte County, Kansas",7,2,1.3440
+"Wayne County, Michigan",106,2,0.4000
+"Calcasieu Parish, Louisiana",252,0,-1.0000
+"Cleveland County, North Carolina",410,3,0.5852
+"Jefferson County, Alabama",75,10,0.3235
+"Philadelphia County, Pennsylvania",15,1,2.3000
+"Caddo Parish, Louisiana",196,0,-1.0000
+"Raleigh County, West Virginia",130,10,0.1116
+"Mobile County, Alabama",118,12,0.1577
+"Scioto County, Ohio",57,16,0.8141
+"Putnam County, Florida",388,13,0.1453
+"Muscogee County, Georgia",24,0,-1.0000
+"Marshall County, Alabama",25,7,1.1776
+"Calhoun County, Alabama",41,6,0.5733
+"Etowah County, Alabama",21,13,0.3215
+"Richmond County, Georgia",34,0,-1.0000
+"St. Louis City, Missouri",0,0,-1.0000
+"Bibb County, Georgia",38,0,-1.0000
+"Baltimore City, Maryland",0,0,-1.0000
